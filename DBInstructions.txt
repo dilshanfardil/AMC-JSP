@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=e1MwsT5FJRQ
+https://www.youtube.com/watch?v=QWFuur-u93c
+Watch the videos on above links carefully and follow the steps to setup postgreSQl version 10.8(select in download/given jar in project won't support to upper versions).
+
+Give password as 'admin', port '5432'.
+
+Create database (name : 'amc') on pgAdmin panel and select database and get query window and 
+execute given 'SystemSQL' script to generate tables.
+
+After that excute 'DataSQL' script to add test data.
+
+ 
